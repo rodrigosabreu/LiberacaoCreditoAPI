@@ -1,0 +1,12 @@
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\bin\Debug\netcoreapp3.1\LiberacaoCredito.Data.deps.json
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\bin\Debug\netcoreapp3.1\LiberacaoCredito.Data.dll
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\bin\Debug\netcoreapp3.1\LiberacaoCredito.Data.pdb
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\bin\Debug\netcoreapp3.1\LiberacaoCredito.Business.dll
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\bin\Debug\netcoreapp3.1\LiberacaoCredito.Business.pdb
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.csproj.AssemblyReference.cache
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.AssemblyInfoInputs.cache
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.AssemblyInfo.cs
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.csproj.CoreCompileInputs.cache
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.csproj.CopyComplete
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.dll
+D:\Labs\WebAPI\Curso Rest DevIO\LiberacaoCreditoAPI\src\LiberacaoCredito.Data\obj\Debug\netcoreapp3.1\LiberacaoCredito.Data.pdb
