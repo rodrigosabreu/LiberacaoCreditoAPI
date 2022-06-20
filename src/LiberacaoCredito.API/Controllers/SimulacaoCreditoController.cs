@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace LiberacaoCredito.API.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/Credito")]
     public class SimulacaoCreditoController : ControllerBase
     {
         private readonly ICreditoService _creditoService;

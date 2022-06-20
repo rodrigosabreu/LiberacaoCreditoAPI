@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiberacaoCredito.API", "src
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiberacaoCredito.Business", "src\LiberacaoCredito.Business\LiberacaoCredito.Business.csproj", "{3F36CDC4-3013-4DEE-81C2-7B708007579F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiberacaoCredito.Data", "src\LiberacaoCredito.Data\LiberacaoCredito.Data.csproj", "{DC23AF0E-351A-4E2B-99B6-6C1DD83DA999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiberacaoCredito.Data", "src\LiberacaoCredito.Data\LiberacaoCredito.Data.csproj", "{DC23AF0E-351A-4E2B-99B6-6C1DD83DA999}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{542584B1-F16D-4D1C-AB06-6275D47D5C36}"
+	ProjectSection(SolutionItems) = preProject
+		SQL.txt = SQL.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
